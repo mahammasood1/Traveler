@@ -1,4 +1,3 @@
-Traveler
 Traveler is a website that provides a platform for the adventure hunters and tour planners to get along under a single URL. 
 In this web, we will offer several services which are as follows:
 1.	Plan trips for each customer, according to their desired destination, dates, facilities and budget.
